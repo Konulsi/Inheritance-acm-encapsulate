@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\bin\Debug\net6.0\Inheritance-ACM-Encapsulate.exe
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\bin\Debug\net6.0\Inheritance-ACM-Encapsulate.deps.json
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\bin\Debug\net6.0\Inheritance-ACM-Encapsulate.runtimeconfig.json
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\bin\Debug\net6.0\Inheritance-ACM-Encapsulate.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\bin\Debug\net6.0\Inheritance-ACM-Encapsulate.pdb
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\obj\Debug\net6.0\Inheritance-ACM-Encapsulate.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\obj\Debug\net6.0\Inheritance-ACM-Encapsulate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\obj\Debug\net6.0\Inheritance-ACM-Encapsulate.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\obj\Debug\net6.0\Inheritance-ACM-Encapsulate.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\obj\Debug\net6.0\Inheritance-ACM-Encapsulate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\obj\Debug\net6.0\Inheritance-ACM-Encapsulate.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\obj\Debug\net6.0\refint\Inheritance-ACM-Encapsulate.dll
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\obj\Debug\net6.0\Inheritance-ACM-Encapsulate.pdb
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\obj\Debug\net6.0\Inheritance-ACM-Encapsulate.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Inheritance-AM-Encapsulation\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\Inheritance-ACM-Encapsulate\obj\Debug\net6.0\ref\Inheritance-ACM-Encapsulate.dll
